@@ -1,4 +1,7 @@
-### Hi there 👋
+# 👋 Hey!!!
+I'm SoNothing. I like minecraft and I randomly PR things to repos.
+
+I don't know any programming at all.
 
 <!--
 **SoNothingMC/SoNothingMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
