@@ -1,7 +1,10 @@
 # 👋 Hey!!!
+
 I'm SoNothing. I like minecraft and I randomly PR things to repos.
 
-I don't know any programming at all.
+A little bit of HTML is all I know.
+
+(I made bigrat.monster if you are wondering)
 
 <!--
 **SoNothingMC/SoNothingMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
